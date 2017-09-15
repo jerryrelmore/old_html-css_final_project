@@ -1,0 +1,23 @@
+body {
+  font-size: 12pt;
+  font-family: Times, "Times New Roman", serif;
+  line-height: 1.4em;
+  margin: 10px 40px 10px 40px;
+  width: 700px;
+}
+
+h1, h2 {
+  color: black;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 130%;
+}
+
+body p a:link { color: #007e7e; }
+body p a:visited { color: #333333; }
+
